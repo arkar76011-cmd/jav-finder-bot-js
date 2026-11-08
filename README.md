@@ -38,33 +38,3 @@ If you want to run this bot locally, follow these steps:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
-
-
-Install dependencies:
-Bash
-
-npm install
-Configure environment variables:
-Create a .env file in the root directory and add your credentials:
-Code snippet
-
-BOT_TOKEN=your_telegram_bot_token_here
-API_URL=your_target_api_url_here
-Start the bot:
-Bash
-
-npm start
-📦 Dependencies
-JSON
-
-{
-  "dependencies": {
-    "axios": "^1.6.8",
-    "dotenv": "^16.4.5",
-    "telegraf": "^4.16.3"
-  }
-}
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-📝 License
-This project is MIT licensed.
