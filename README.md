@@ -35,8 +35,8 @@ A smart and interactive Telegram Bot built with Node.js and Telegraf to search a
 If you want to run this bot locally, follow these steps:
 
 1. Clone the repository:
-  git clone https://github.com/arkar76011-cmd/javfinderbot-js.git
-  cd javfinderbot-js
+  git clone https://github.com/arkar76011-cmd/jav-finder-bot-js.git
+  cd jav-finder-bot-js
 
 2. Install dependencies:
    npm install
