@@ -39,7 +39,8 @@ If you want to run this bot locally, follow these steps:
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
 
-   Install dependencies:
+   
+Install dependencies:
 npm install
 
 Configure environment variables:
