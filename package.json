@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-js",
+  "version": "1.0.0",
+  "description": "Telegram bot in Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
