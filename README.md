@@ -1,4 +1,4 @@
-# 🤖 Telegram Actor Search Bot
+# 🤖 Telegram Jav Search Bot
 
 <div align="center">
 
